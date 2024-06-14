@@ -1,0 +1,15 @@
+<MC>What is the smallest unit of life?<O>Atom:Molecule:Cell:Organ</O><A>Cell</A>
+<MC>What is the name of the process by which plants make their own food?<O>Photosynthesis:Respiration:Digestion:Absorption</O><A>Photosynthesis</A>
+<MC>What is the largest organ in the human body?<O>Heart:Skin:Brain:Lungs</O><A>Skin</A>
+<MC>Which type of energy is produced by the sun?<O>Chemical:Electrical:Thermal:Light</O><A>Light</A>
+<MC>Which organ in the human body pumps blood?<O>Heart:Kidney:Lungs:Stomach</O><A>Heart</A>
+<MC>What is the process by which water turns into vapor?<O>Condensation:Evaporation:Respiration:Photosynthesis</O><A>Evaporation</A>
+<MC>Which type of rock is formed from cooled magma or lava?<O>Sedimentary:Metamorphic:Volcanic:Granite</O><A>Volcanic</A>
+<MC>What is the name of the process by which solids turn into liquids?<O>Condensation:Evaporation:Melting:Freezing</O><A>Melting</A>
+<MC>Which planet in our solar system is known as the "Red Planet"?<O>Earth:Mars:Venus:Mercury</O><A>Mars</A>
+<MC>Which part of the plant holds it in the soil and absorbs nutrients and water?<O>Root:Stem:Leaf:Flower</O><A>Root</A>
+<MC>Which of the gas is not known as green house gas?<O>Methane:Nitrous oxide:Carbon dioxide:Hydrogen</O><A>Hydrogen</A>
+<QI>Identify this Chemist who formulated the periodic table<F>Science_Q7.jpeg</F><O>Glenn Seaborg:Horace Deming:Dmitri Mendeleev:Alexander Borodin</O><A>Dmitri Mendeleev</A>
+<QI>Identify this Scottish scientist who discovered Penicillin<F>Science_Q8.jpg</F><O>Alexander Fleming:Andrew Flintoff:Charles Thom:Howard Florey</O><A>Alexander Fleming</A>
+<QI>Recognize this legendary Astronaut <F>Science_Q9.jpeg</F><O>Yuri Gagarin:John Glenn:Scott Kelly:Neil Armstrong</O><A>Neil Armstrong</A>
+<QI>Who is this modern visionary?<F>Science_Q10.jpeg</F><O>Larry Ellison:Jeff Bezos:Elon Musk:Steve Jobs</O><A>Elon Musk</A>

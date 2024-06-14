@@ -1,0 +1,15 @@
+<MC>What is the name of the popular animated movie about a young lion who becomes king?<O>The Lion King:Aladdin:Tarzan:Beauty and the Beast</O><A>The Lion King</A>
+<MC>Which of these is NOT a character in the Harry Potter series?<O>Albus Dumbledore:Severus Snape:Albus Severus Potter:Rubeus Hagrid</O><A>Albus Severus Potter</A>
+<MC>Which of these is NOT a character in the Star Wars series?<O>Yoda:Obi-Wan Kenobi:Jar Jar Binks:Luke Skywalker</O><A>Jar Jar Binks</A>
+<MC>Which of these is NOT a character in the Lord of the Rings series?<O>Gandalf:Gimli:Legolas:Gollum</O><A>Gollum</A>
+<MC>Which of these is NOT a character in the Star Wars series?<O>Yoda:Obi-Wan Kenobi:Jar Jar Binks:Luke Skywalker</O><A>Jar Jar Binks</A>
+<MC>Who is the main character in the popular video game series, Super Mario Bros.?<O>Luigi:Wario:Waluigi:Mario</O><A>Mario</A>
+<MC>What is the name of the popular TV show about a group of friends living in New York City?<O>Luis:Friends:How I Met Your Mother:Seinfeld</O><A>Friends</A>
+<MC>Which animated TV show features a family of yellow characters living in Springfield?<O>Family Guy:American Dad:King of the Hill:The Simpsons</O><A>The Simpsons</A>
+<MC>What is the name of the popular book series about a boy who attends a school for wizards?<O>Harry Potter:Lord of the Rings:Twilight:Chronicles of Narnia</O><A>Harry Potter</A>
+<MC>Who is the main character in the Disney movie, Frozen?<O>Elsa:Anna:Olaf:Kristoff</O><A>Elsa</A>
+<MC>What is the name of the popular TV show about a group of students at a performing arts school?<O>High School Musical:Glee:American Idol:So You Think You Can Dance</O><A>Glee</A>
+<QI>Identify this famous movie from the scene<F>entertainment_Q8.jpg</F><O>Back To the Future:The Dark Knight:Star Wars:Star Trek</O><A>Back To the Future</A>
+<QI>Identify this artifact from the Star Wars series?<F>entertainment_Q9.jpeg</F><O>White Planet:Giant Star:Black Ball:Death Star</O><A>Death Star</A>
+<QI>Identify this actor who played the character of Joker in The Dark Knight <F>entertainment_q10.jpeg</F><O>Jim Carey:Tom Hanks:Heath Ledger:Ben Harper</O><A>Heath Ledger</A>
+<QI>What game are they playing?<F>entertainment_q11.jpeg</F><O>Cricket:Lobi-Lobi:BroomBall:Quidditch</O><A>Quidditch</A>

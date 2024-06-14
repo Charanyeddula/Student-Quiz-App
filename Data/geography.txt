@@ -1,0 +1,22 @@
+<MC>What is the name of the highest mountain in the world?:<O>Mount Everest:Mount Kilimanjaro:Mount Fuji:Mount Rushmore</O><A>Mount Everest</A>
+<MC>What is the capital city of Australia?<O>Sydney:Melbourne:Canberra:Perth</O><A>Canberra</A>
+<MC>Which continent is home to the Amazon rainforest?.<O>North America:South America:Africa:Asia</O><A>South America</A>
+<MC>Which of the following is the largest country in the world?<O>China:Russia:Canada:United States of America</O><A>Russia</A>
+<MC>Which of the following is the largest ocean in the world?<O>Atlantic Ocean:Indian Ocean:Pacific Ocean:Arctic Ocean</O><A>Pacific Ocean</A>
+<MC>Which of the following is the largest desert in the world?<O>Great Victoria Desert:Gobi Desert:Kalahari Desert:Thar Desert</O><A>Great Victoria Desert</A>
+<MC>Which of the following is the largest island in the world?<O>Greenland:Madagascar:New Guinea:Borneo</O><A>Greenland</A>
+<MC>Which of the following is the largest river in the world?<O>Amazon River:Nile River:Yangtze River:Mississippi River</O><A>Nile River</A>
+<MC>Which of the following is the largest lake in the world?<O>Superior:Victoria:Baikal:Michigan</O><A>Superior</A>
+<QI>Which U.S. state is highlighted on this map?<F>greatwakkofChina.jpg</F><O>Texas:Iowa:Vermont</O><A>Iowa</A>
+<QI>The outline and emblem of which country do you see in this image?:<F>O_Cristo_Redentor.JPG</F><O>New York:Rio de Janeiro:Paris:Melbourne</O><A>Rio de Janeiro</A>
+<QI>Identify this UNESCO recognized World Heritage Site<F>Geography_Q13.jpeg</F><O>Mount Everest:Mount Fuji:Mount Hood:Mount Shasta</O><A>Mount Fuji</A>
+<MC>What is the capital city of France?<O>Madrid:Paris:London:Rome</O><A>Paris</A>
+<MC>What is the capital city of Germany?<O>Paris:Berlin:London:Rome</O><A>Berlin</A>
+<MC>What is the capital city of Italy?<O>Paris:Berlin:London:Rome</O><A>Rome</A>
+<MC>What is the capital city of Spain?<O>Madrid:Paris:London:Rome</O><A>Madrid</A>
+<MC>What is the capital city of the United Kingdom?<O>Madrid:Paris:London:Rome</O><A>London</A>
+<MC>What is the capital city of the United States of America?<O>Washington DC:New York City:Los Angeles:Chicago</O><Ans>Washington DC</A>
+<MC>The minor planets revolving between the orbits of Jupiter and Mars are called:<O>Novas:Comets:Meteors:Asteroids</O><Ans>Asteroids</A>
+<MC>The luminous coloured ring, surrounding the sun is called the:<O>Nebula:Comet:Asteroid:Corona</O><A>Corona</A>
+<MC>Which of the following is an inland sea?<O>Caribbean sea:Caspian sea:Red sea:Yellow sea</O><A>Caspian sea</A>
+<MC>The longest navigational water canal in the world is the<O>St. Laurence Seaway (USA and Canada):Suez canal, Egypt:Kiel canal, Germany:Panama canal, Central America</O><A>St. Laurence Seaway (USA and Canada)</A>

@@ -1,0 +1,13 @@
+<MC>What is the name of the sport that uses a small rubber ball and a curved stick?:<O>Basketball:Hockey:Tennis:Soccer</O><A>Hockey</A>
+<MC>Which sport is played on ice with skates and a stick?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Ice Hockey</A>
+<MC>Which sport is played on a court with a net?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Baseball</A>
+<MC>In which sport would you use a bat and a ball?:<O>Baseball:Football:Ice Hockey:Golf</O><Ans>Baseball</A>
+<MC>Which sport involves throwing a disc into a goal?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Ultimate Frisbee</A>
+<MC>Which sport involves throwing a ball into a goal?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Baseball</A>
+<MC>Which sport involves throwing a ball into a basket?:<Opt>Baseball:Football:Ice Hockey:Golf</O><A>Basketball</A>
+<MC>Which sport involves throwing a ball into a hole?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Golf</A>
+<MC>What is the name of the sport that involves jumping over a bar at increasing heights?:<O>Baseball:Football:Ice Hockey:Golf</O><A>High Jump</A>
+<MC>Which sport involves running, jumping, and throwing events?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Track and Field</A>
+<MC>What is the name of the sport that involves riding waves with a board?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Surfing</A>
+<MC>What is the name of the world's most popular sport?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Soccer</A>
+<MC>What is the name of the sport that involves hitting a ball with a bat?:<O>Baseball:Football:Ice Hockey:Golf</O><A>Baseball</A>
